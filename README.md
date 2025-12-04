@@ -7,3 +7,15 @@ Fine-tuning the Segment Anything Model (SAM) for infrared small target detection
 ## The link to the downstream prediction result figures mentioned in the supplementary materials is provided as follows:
 ## Marine Animal Segmentation
 [RMAS](https://pan.baidu.com/s/1RYU-3zBUP_MOqqZZkyLG-w?pwd=b2kr)   [MAS3K](https://pan.baidu.com/s/18DJE7PvhVPO00VwWcp-Syg?pwd=fgnq)
+
+
+## 📄 Citation
+
+If you find this paper useful, please cite it as:
+```bibtex
+@article{zhang2025vision,
+  title={Vision-centric representation-efficient fine-tuning for robust universal foreground segmentation},
+  author={Zhang, Guoyi and Chen, Siyang and Xu, Guangsheng and Wang, Han and Zhang, Xiaohu},
+  journal={arXiv preprint arXiv:2504.14481},
+  year={2025}
+}
