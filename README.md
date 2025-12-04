@@ -6,4 +6,4 @@ Fine-tuning the Segment Anything Model (SAM) for infrared small target detection
 
 ## The link to the downstream prediction result figures mentioned in the supplementary materials is provided as follows:
 ## Marine Animal Segmentation
-[RMAS](https://pan.baidu.com/s/1RYU-3zBUP_MOqqZZkyLG-w?pwd=b2kr)
+[RMAS](https://pan.baidu.com/s/1RYU-3zBUP_MOqqZZkyLG-w?pwd=b2kr)   [MAS3K](https://pan.baidu.com/s/18DJE7PvhVPO00VwWcp-Syg?pwd=fgnq)
